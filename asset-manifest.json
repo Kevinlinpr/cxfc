@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d859933a.css",
+    "main.js": "/static/js/main.ee397727.js",
+    "static/js/787.25a4fdca.chunk.js": "/static/js/787.25a4fdca.chunk.js",
+    "static/media/4.jpeg": "/static/media/4.c90cc8a1b55f321aebb7.jpeg",
+    "static/media/2.jpeg": "/static/media/2.d70fe1b5b6568b5d2ee3.jpeg",
+    "static/media/HuaGuangGangTieZhiHei-KeBianTi-2.ttf": "/static/media/HuaGuangGangTieZhiHei-KeBianTi-2.8d31bda6b81bbb1dde63.ttf",
+    "static/media/1.jpeg": "/static/media/1.7bac7d0eed879c25b2ec.jpeg",
+    "static/media/6.jpeg": "/static/media/6.48c2e8378e22f9a103f4.jpeg",
+    "static/media/3.jpeg": "/static/media/3.f62e68cb2bbead451d87.jpeg",
+    "static/media/5.jpeg": "/static/media/5.bc294214c18a1c999bb7.jpeg",
+    "static/media/logo.jpg": "/static/media/logo.902a45ac209aa8669aed.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.d859933a.css.map": "/static/css/main.d859933a.css.map",
+    "main.ee397727.js.map": "/static/js/main.ee397727.js.map",
+    "787.25a4fdca.chunk.js.map": "/static/js/787.25a4fdca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d859933a.css",
+    "static/js/main.ee397727.js"
+  ]
+}
