@@ -1,0 +1,7 @@
+.highlight-gallery-wrapper{
+    display: flex;
+    justify-content: center;
+    z-index: 1000;
+    margin-top: 50px;
+    width: 10vw;
+}
